@@ -1,4 +1,4 @@
-# Project 3 - Correlated-Q Learning
+# Correlated-Q Learning
 
 This paper describes and replicates the Soccer environment, a two-player, zero-sum Markov game from Greenwald and Hall. Four variants of Q-Learning algorithms are applied to the Soccer game and convergence to equilibrium policies is validated. This paper also discusses the theoretical foundations of multiagent Q-learning techniques.
 
