@@ -1,5 +1,7 @@
 # Correlated-Q Learning
 
+### REPORT: https://github.com/AdzTheDemon/Correlated-Q-Greenwald-Hall/blob/main/Correlated%20Q-Learning%20REPORT.pdf
+
 This paper describes and replicates the Soccer environment, a two-player, zero-sum Markov game from Greenwald and Hall. Four variants of Q-Learning algorithms are applied to the Soccer game and convergence to equilibrium policies is validated. This paper also discusses the theoretical foundations of multiagent Q-learning techniques.
 
 ## Code Execution
