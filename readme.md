@@ -8,6 +8,6 @@ Each Learner (Q, Friend-Q, Foe-Q nd CE-Q), with oponent following the same strat
 
 I have also included each learner againt a random agent cases as well. Although such learning is not the best and is not relevant to the project.
 
-## Result
+## Results
 <img src="Q-FQ_.PNG" width=600>
 <img src="FoeQ_CEQ.PNG" width=600>
